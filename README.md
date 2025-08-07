@@ -11,10 +11,10 @@
 🧠 **AI & Data**: TensorFlow, Pandas, NumPy  
 
 ## 📌 **Projects & SaaS App**  
-🚀 Currently working on a SaaS application using **Flutter**  
+🚀 Currently working on publishing my projects  
 
 ## 📚 **Current Courses**  
-🎓 **Google IT Support Course** – In Progress. 
+🎓 **Google IT Support Course** – Completed. 
 
 ## 💼 **Virtual Experiences** 
 Developer & Technology (Accenture UK).  
